@@ -6,13 +6,16 @@ This project focuses on cleaning and preparing the Netflix Movies and TV Shows d
 
 The objective is to identify missing values, handle inconsistent data, convert data types, and prepare a clean dataset for further analysis.
 
+
 ## 2. Dataset Information
 
 - **Dataset:** Netflix Movies and TV Shows
+- **Source:** [Kaggle - Netflix Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 - **Original records:** 8,807
 - **Original columns:** 12
 - **Cleaned columns:** 14
 - **File format:** CSV
+
 
 ## 3. Technologies Used
 
