@@ -88,11 +88,14 @@ Install Pandas using:
 pip install pandas
 ```
 
+
 ## 8. Project Links
 
 - **GitHub Repository:** https://github.com/KumbhamVarsha/netflix-data-cleaning
-- **Project Reference:** https://roadmap.sh/projects/clean-netflix-dataset
-- **roadmap.sh Project:** https://roadmap.sh/projects/clean-netflix-dataset
+
+**roadmap.sh Project URL:**
+
+https://roadmap.sh/projects/clean-netflix-dataset
 
 ## 9. Conclusion
 
